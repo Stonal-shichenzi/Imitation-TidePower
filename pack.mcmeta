@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "description": "An imitation for the Tide Power",
+        "min_format": 34,
+        "max_format": 101,
+        "pack_format": 48,
+        "supported_formats": [
+            34,
+            101
+        ]
+    }
+}
