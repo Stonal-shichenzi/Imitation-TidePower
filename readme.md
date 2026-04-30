@@ -11,7 +11,7 @@ Hello! This is a data pack for my newest video!
 These are the photographs of my thought. Plan:
 <details>
     <summary>Plan</summary>
-    <img src="pages/Plan.jpg"><br>
+    <img src="pages/plan.jpg"><br>
 </details>
 
 ## How to download
