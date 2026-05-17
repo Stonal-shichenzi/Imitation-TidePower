@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": "minecraft:prismarine_shard",
+    "template": "minecraft:tide_armor_trim_smithing_template",
+    "base": "minecraft:diamond_sword",
+    "result": {
+        "id": "minecraft:diamond_sword",
+        "components": {
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_data": {
+                "trident_progress": 1
+            },
+            "item_name": {
+                "type": "text",
+                "text": "三叉戟（半成品）",
+                "color": "gray"
+            },
+            "minecraft:lore": [
+                {
+                    "type": "text",
+                    "text": "√ 潮汐盔甲纹饰（锻造模板）、海晶碎片 [锻造台]",
+                    "color": "green",
+                    "italic": true
+                },
+                {
+                    "type": "text",
+                    "text": "- 海洋之心 [潮涌化合]",
+                    "color": "gray",
+                    "italic": true
+                },
+                {
+                    "type": "text",
+                    "text": "- 下界石英 [潮涌化合]",
+                    "color": "gray",
+                    "italic": true
+                }
+            ]
+        }
+    }
+}
