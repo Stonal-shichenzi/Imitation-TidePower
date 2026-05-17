@@ -1,0 +1,39 @@
+{
+    "criteria": {
+        "trident": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:trident"
+                    }
+                ]
+            }
+        },
+        "lapis_lazuli": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:lapis_lazuli"
+                    }
+                ]
+            }
+        },
+        "nautilus_shell": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:nautilus_shell"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "imitation:half_done_enchanted_trident"
+        ]
+    }
+}

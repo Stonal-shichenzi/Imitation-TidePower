@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "half_done_trident": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:tide_armor_trim_smithing_template"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "imitation:half_done_trident"
+        ]
+    }
+}
