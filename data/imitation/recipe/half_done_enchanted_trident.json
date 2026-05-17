@@ -1,0 +1,46 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": "minecraft:lapis_lazuli",
+    "template": "minecraft:nautilus_shell",
+    "base": "minecraft:trident",
+    "result": {
+        "id": "minecraft:trident",
+        "components": {
+            "minecraft:enchantment_glint_override": false,
+            "minecraft:custom_data": {
+                "enchant_progress": 1
+            },
+            "minecraft:item_name": {
+                "type": "text",
+                "text": "三叉戟（附魔基板）",
+                "color": "gray"
+            },
+            "minecraft:lore": [
+                {
+                    "type": "text",
+                    "text": "√ 鹦鹉螺壳、青金石 [锻造台]",
+                    "color": "green",
+                    "italic": true
+                },
+                {
+                    "type": "text",
+                    "text": "- [潮涌充能]",
+                    "color": "gray",
+                    "italic": true
+                },
+                {
+                    "type": "text",
+                    "text": "- 潮涌稳定剂 [潮涌化合]",
+                    "color": "gray",
+                    "italic": true
+                },
+                {
+                    "type": "text",
+                    "text": "- 下界之星 [潮涌化合]",
+                    "color": "gray",
+                    "italic": true
+                }
+            ]
+        }
+    }
+}
